@@ -1,0 +1,12 @@
+name: "yavinenana-aws-s3-sync"
+description: "sync a directory - s3 bucket"
+author: yavinenana
+runs:
+  using: docker
+  image: Dockerfile
+branding:
+  icon: refresh-cw
+  color: green
+#  icon: 'check-circle'
+#  color: 'green'
+
