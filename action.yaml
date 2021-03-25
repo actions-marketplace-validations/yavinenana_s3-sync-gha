@@ -4,7 +4,7 @@ author: yavinenana
 runs:
   using: docker
 #  image: Dockerfile
-  image: yavinenana/s3-sync-action:1.0
+  image: 'docker://yavinenana/s3-sync-action:1.0'
 branding:
   icon: refresh-cw
   color: green
