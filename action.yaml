@@ -1,4 +1,4 @@
-name: "yavinenana-aws-s3-sync"
+name: "amazon-s3-synchronization"
 description: "sync a directory - s3 bucket"
 author: yavinenana
 runs:
